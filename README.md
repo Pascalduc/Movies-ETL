@@ -6,7 +6,8 @@ The purpose of this project was to integrate all the extraction, transformation 
 At first, we tested our extraction function with the three files and used it to clean the Wiki and Kaggle movie files. Once the clean DataFrame were obtained, we added the data to a PostgreSQL database. The resulting tables had the correct number of rows.
 
 ![movies_query](Resources/movies_query.png)
-![ratings_query](Resources/ratings _query.png)
+
+![ratings_query](Resources/ratings_query.png)
 
 
 ## Summary:
